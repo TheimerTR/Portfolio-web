@@ -29,6 +29,13 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
+.cuadrado-vacio {
+    width: 100px;          /* Ancho del cuadrado */
+    height: 100px;         /* Alto del cuadrado */
+    border: 2px solid black; /* Borde del cuadrado */
+    background-color: transparent; /* Fondo transparente */
+}
+
 body {
 	line-height: 1;
 }
