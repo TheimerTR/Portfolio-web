@@ -1573,7 +1573,7 @@ input, select, textarea {
 
 		.image.centered {
     			display: block;
-    			margin: 20px; /* Añade 20px de margen a todos los lados */
+    			margin: 150px; /* Añade 20px de margen a todos los lados */
 		}
 
 			.image.centered img {
