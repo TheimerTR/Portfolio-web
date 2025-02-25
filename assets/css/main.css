@@ -36,6 +36,13 @@ footer, header, hgroup, menu, nav, section {
     border: 0;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 body {
 	line-height: 1;
 }
