@@ -33,6 +33,7 @@ footer, header, hgroup, menu, nav, section {
     width: 100px;          /* Ancho del cuadrado */
     height: 100px;         /* Alto del cuadrado */
     background-color: transparent; /* Fondo transparente */
+    border: none;
 }
 
 body {
