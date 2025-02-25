@@ -32,7 +32,6 @@ footer, header, hgroup, menu, nav, section {
 .cuadrado-vacio {
     width: 100px;          /* Ancho del cuadrado */
     height: 100px;         /* Alto del cuadrado */
-    border: 2px solid black; /* Borde del cuadrado */
     background-color: transparent; /* Fondo transparente */
 }
 
