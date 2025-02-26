@@ -19,6 +19,15 @@ margin-left: auto;
 margin-right: auto;
 }
 
+.contenedor {
+display: flex;
+align-items: center; /* Alinea verticalmente la imagen y el texto */
+}
+.contenedor img {
+margin-right: 10px; /* Espacio entre la imagen y el texto */
+width: 50px; /* Tamaño de la imagen */
+}
+
 </style>	
 	<head>
 		<title>Astral by HTML5 UP</title>
@@ -102,16 +111,11 @@ margin-right: auto;
 								<header>
 									<h2>Contact Me</h2>
 								</header>
-								<section>
-									<div class="row">
-										<div class="col-2 col-2-medium col-1-small">
-											<a class="image fit"><img src="images/linkedin-logo.png" alt=""></a>
-										</div>
-										<p>
-												Alberto Hidalgo Garcia Linkedin
-										</p>
-									</div>
-								</section>
+
+								 <div class="contenedor">
+							        	<img src="images/linkedin-logo.png" alt="Linkedin">
+							        	<p>Alberto Hidalgo Garcia Linkedin</p>
+							         </div>
 							</article>
 
 						<article id="suits" class="panel">
