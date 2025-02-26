@@ -1569,6 +1569,12 @@ input, select, textarea {
 			width: 100%;
 		}
 
+		
+		img.alignMid{
+		  vertical-align: middle;
+		  /* Ojo vertical-align: text-middle no existe*/
+		}
+		
 		.image.fit {
 			display: block;
 			width: 100%;
